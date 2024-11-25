@@ -18,7 +18,7 @@ public class Employee {
         return id;
     }
 
-    public String getfullName() {
+    public String getFullName() {
         return fullName;
     }
 
